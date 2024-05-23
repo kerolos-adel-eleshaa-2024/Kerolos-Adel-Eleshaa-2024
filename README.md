@@ -17,6 +17,7 @@ I am a computer science student at Thebes Academy in Giza, Egypt, with a passion
 ## Contact Me
 - **Email**: kerolos.adel.eleshaa@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/kerolos-adel-eleshaa
-- **Portfolio**: https://kero.kesug.com
+- **Portfolio 1**: https://kero.kesug.com
+- **Portfolio 2**: https://kero.freewebhostmost.com
 
 Let's connect and collaborate on exciting projects! 🚀
