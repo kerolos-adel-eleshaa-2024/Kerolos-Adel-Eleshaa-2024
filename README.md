@@ -70,7 +70,9 @@ I am driven by a passion for continuous learning and staying up-to-date with the
 - **Portfolio 2**: [Kerolos' Free Web Host](https://kero.freewebhostmost.com)
 
 I am always eager to connect with like-minded individuals and collaborate on exciting projects. Let's work together to create something amazing! 🚀
+
 ---
+
 # مرحباً، أنا كيرلس عادل! 👋
 
 ## عني
