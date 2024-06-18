@@ -68,10 +68,9 @@ I am driven by a passion for continuous learning and staying up-to-date with the
 - **LinkedIn**: [Kerolos Adel Eleshaa](https://www.linkedin.com/in/kerolos-adel-eleshaa)
 - **Portfolio 1**: [Kerolos' Web Masterpieces](https://kero.kesug.com)
 - **Portfolio 2**: [Kerolos' Free Web Host](https://kero.freewebhostmost.com)
-
+---
 I am always eager to connect with like-minded individuals and collaborate on exciting projects. Let's work together to create something amazing! 🚀
-
-
+---
 
 # مرحباً، أنا كيرلس عادل! 👋
 
@@ -140,8 +139,9 @@ I am always eager to connect with like-minded individuals and collaborate on exc
 
 ## تواصل معي
 - **البريد الإلكتروني**: [kerolos.adel.eleshaa@gmail.com](mailto:kerolos.adel.eleshaa@gmail.com)
-- **لينكد إن**: [كيرلس عادل العشا](https://www.linkedin.com/in/kerolos-adel-eleshaa)
+- **لينكد إن**: [Kerolos Adel Eleshaa](https://www.linkedin.com/in/kerolos-adel-eleshaa)
 - **البورتفوليو 1**: [Kerolos' Web Masterpieces](https://kero.kesug.com)
 - **البورتفوليو 2**: [Kerolos' Free Web Host](https://kero.freewebhostmost.com)
-
+---
 أنا دائمًا متحمس للتواصل مع الأفراد ذوي التفكير المماثل والتعاون في مشاريع مثيرة. لنصنع شيئًا مذهلاً معًا! 🚀
+---
