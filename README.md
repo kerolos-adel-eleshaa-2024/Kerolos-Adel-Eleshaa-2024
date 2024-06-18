@@ -1,4 +1,4 @@
-# Hello, I'm Kerolos Adel! 👋  # مرحباً، أنا كيرلس عادل! 👋
+# Hello, I'm Kerolos Adel! 👋 
 
 ## About Me
 I am a dedicated and enthusiastic computer science student at Thebes Academy in Giza, Egypt. My primary focus is on front-end development, where I combine technical skills and creativity to build user-friendly interfaces and responsive websites. My goal is to bridge the gap between design and technology, ensuring seamless and engaging digital experiences.
