@@ -5,10 +5,10 @@ I am a dedicated and enthusiastic computer science student at Thebes Academy in 
 
 I am driven by a passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I am committed to expanding my knowledge and honing my skills to deliver innovative solutions in the ever-evolving field of web development.
 
-## 🔗 My Youtube channel
+### 🔗 My Youtube channel
 [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@KerolosAdelEleshaa)
 
-## 💻 Technologies that I use
+### 💻 Technologies that I use
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg)
 
 ## Skills
