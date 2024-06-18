@@ -5,6 +5,12 @@ I am a dedicated and enthusiastic computer science student at Thebes Academy in 
 
 I am driven by a passion for continuous learning and staying up-to-date with the latest industry trends and technologies. I am committed to expanding my knowledge and honing my skills to deliver innovative solutions in the ever-evolving field of web development.
 
+## 🔗 My Youtube channel
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@KerolosAdelEleshaa)
+
+## 💻 Technologies that I use
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg)
+
 ## Skills
 
 ### Front-End Development
@@ -79,6 +85,12 @@ I am always eager to connect with like-minded individuals and collaborate on exc
 أنا طالب متحمس ومتفاني في دراسة علوم الحاسوب في أكاديمية طيبة بالجيزة، مصر. تركيزي الأساسي هو على تطوير الواجهة الأمامية، حيث أجمع بين المهارات التقنية والإبداع لبناء واجهات مستخدم سهلة الاستخدام ومواقع ويب تفاعلية. هدفي هو سد الفجوة بين التصميم والتكنولوجيا، لضمان تجارب رقمية سلسة وجذابة.
 
 أنا مدفوع بشغف للتعلم المستمر ومواكبة أحدث اتجاهات وتكنولوجيا الصناعة. أنا ملتزم بتوسيع معرفتي وصقل مهاراتي لتقديم حلول مبتكرة في المجال المتطور لتطوير الويب.
+
+## 🔗 قناتي على اليوتيوب
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@KerolosAdelEleshaa)
+
+## 💻 التقنيات التي أستخدمها
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![Bootstrap](./assets/bootstrap.svg) ![JavaScript](./assets/javascript.svg)
 
 ## المهارات
 
